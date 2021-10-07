@@ -1,1 +1,1 @@
-# doc-huts-game
+# nz-towns-game
